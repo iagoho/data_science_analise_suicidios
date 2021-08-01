@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iagoho/selecao_cientista_dados/blob/main/imagens/banner_iago.png" >
+  <img src="https://github.com/iagoho/data_science_analise_suicidios/blob/master/imagens/banner_yellow.png" >
 </p>
 
 # Ciência de Dados - Análise de Suicídios
