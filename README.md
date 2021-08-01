@@ -17,6 +17,8 @@ Utilizando a ciência de dados, este projeto tem como objetivo a realização de
 Este projeto foi desenvolvido durante a campanha do setembro amarelo. O intuito é realizar análises de dados públicos sobre causas abordadas em várias campanhas (que possuem meses de concientização), como outubro rosa e abril azul. 
 O objetivo é disseminar estas análises com profissionais da área da computação!
 
+Os dados utilizados foram disponibilizados pelo kaggle (KAGGLE, 2020).
+
 Linguagem utilizada: 
 - Python v3.6.14.
 
