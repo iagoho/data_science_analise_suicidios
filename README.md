@@ -26,7 +26,8 @@ Principais bibliotecas utilizadas:
 - numpy, pandas, matplotlib e seaborn
 
 ## Notebooks desenvolvido:
-* [**ACESSE O NOTEBOOK**](https://github.com/iagoho/data_science_analise_suicidios/blob/master/SetembroAmarelo_AnaliseSuicidio.ipynb)
+* [**ACESSE O NOTEBOOK PELO NBVIEWER**](https://nbviewer.jupyter.org/github/iagoho/data_science_analise_suicidios/blob/master/SetembroAmarelo_AnaliseSuicidio.ipynb)
+* [**ACESSE O NOTEBOOK PELO GITHUB**](https://github.com/iagoho/data_science_analise_suicidios/blob/master/SetembroAmarelo_AnaliseSuicidio.ipynb)
 
 ## REFERÊNCIAS:
 
